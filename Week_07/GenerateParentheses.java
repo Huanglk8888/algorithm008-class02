@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 import java.util.List;
-
+//22. 括号生成
 public class GenerateParentheses {
     public List<String> generateParenthesis(int n) {
         List<String> result = new ArrayList<String>();
